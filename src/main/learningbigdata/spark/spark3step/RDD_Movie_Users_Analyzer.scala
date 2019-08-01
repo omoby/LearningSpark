@@ -20,6 +20,7 @@ object RDD_Movie_Users_Analyzer {
 
   //创建case Rating来封装用户评分数据
   case  class Rating(UserID:String,MovieID:String,Rating:Double,Timestamp:String)
+
   def main(args: Array[String]): Unit = {
     val  conf  = new SparkConf().setMaster("local[*]")
       .setAppName("RDD_Movie_Users_Analyzer")
