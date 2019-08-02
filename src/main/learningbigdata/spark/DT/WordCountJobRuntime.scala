@@ -14,7 +14,7 @@ import org.apache.spark.sql.SparkSession
   */
 object WordCountJobRuntime {
   def main(args: Array[String]): Unit = {
-    Logger.getLogger("org").setLevel(Level.WARN)
+    Logger.getLogger("org").setLevel(Level.ALL)
     val conf = new SparkConf()
       .setAppName("WordCountJobRuntime")
       .setMaster("local[1]")
