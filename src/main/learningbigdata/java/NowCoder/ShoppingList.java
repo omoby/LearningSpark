@@ -1,4 +1,4 @@
-package NowCoder;
+package java.NowCoder;
 
 import java.io.BufferedReader;
 import java.io.IOException;

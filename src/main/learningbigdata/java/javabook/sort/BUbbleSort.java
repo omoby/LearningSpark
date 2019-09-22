@@ -1,4 +1,4 @@
-package main.learningbigdata.java.javabook.sort;
+package java.javabook.sort;
 
 /**
  * FileName: BUbbleSort

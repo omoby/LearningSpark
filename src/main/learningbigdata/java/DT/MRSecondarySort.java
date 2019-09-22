@@ -1,4 +1,4 @@
-package DT;
+package java.DT;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

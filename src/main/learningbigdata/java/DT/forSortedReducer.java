@@ -1,4 +1,4 @@
-package DT;
+package java.DT;
 
 public interface forSortedReducer {
 }

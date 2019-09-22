@@ -1,3 +1,4 @@
+package scala.quicklearnscala;
 import javax.annotation.processing.FilerException
 
 /*

@@ -1,4 +1,4 @@
-package SparkSQL
+package spark.SparkSQL
 
 import java.sql.{Connection, Driver, DriverManager, SQLException, Statement}
 

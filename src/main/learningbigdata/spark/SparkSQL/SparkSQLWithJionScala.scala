@@ -1,5 +1,5 @@
 
-package SparkSQL
+package spark.SparkSQL
 
 import org.apache.spark.sql.{RowFactory, SQLContext}
 import org.apache.spark.{SparkConf, SparkContext}
@@ -57,7 +57,10 @@ object SparkSQLWithJionScala {
       val sqlString = sqlText.toString()
         val excellentStudentNameAgeDS = sqlContext.sql(sqlString)
       //将学生的成绩表和信息表进行jion操作
-        val resultRDD = excellentStudentsDS.rdd.map(row=>(row.getAs("name").toString,row.getLong(1))).join(excellentStudentNameAgeDS.rdd.map(line=>(line.getAs("name").toString,line.getLong(1))))
+        val resultRDD = {
+          excellentStudentsDS.rdd.map(row => (row.getAs("name").toString, row.getLong(1)))
+            .join(excellentStudentNameAgeDS.rdd.map(line => (line.getAs("name").toString, line.getLong(1))))
+        }
       /**
         * 将jion后的信息进行整理
         */

@@ -1,4 +1,4 @@
-package main.learningbigdata.spark.spark3step
+package spark.spark3step
 
 import org.apache.spark.util.AccumulatorV2
 

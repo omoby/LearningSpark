@@ -1,4 +1,4 @@
-package NowCoder;
+package java.NowCoder;
 
 import java.math.BigInteger;
 import java.util.Scanner;

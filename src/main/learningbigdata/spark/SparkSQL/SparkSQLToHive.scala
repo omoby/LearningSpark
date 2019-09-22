@@ -1,4 +1,4 @@
-package SparkSQL
+package spark.SparkSQL
 
 
 import org.apache.spark.sql.SparkSession
@@ -61,7 +61,7 @@ object SparkSQLToHive {
 }
 
 /*
-package SparkSQL
+package spark.SparkSQL
 
 import org.apache.spark.sql.hive.HiveContext
 import org.apache.spark.{SparkConf, SparkContext}

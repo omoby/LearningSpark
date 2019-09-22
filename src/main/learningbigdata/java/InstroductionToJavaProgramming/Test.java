@@ -1,4 +1,4 @@
-package main.learningbigdata.java.InstroductionToJavaProgramming;
+package java.InstroductionToJavaProgramming;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package SparkSQL;
+package java.SparkSQL;
 
 import java.io.File;
 import java.io.FileWriter;

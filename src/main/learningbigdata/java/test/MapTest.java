@@ -1,4 +1,4 @@
-package main.learningbigdata.java.test;
+package java.test;
 
 import org.apache.commons.collections.map.HashedMap;
 

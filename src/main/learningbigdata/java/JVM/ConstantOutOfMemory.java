@@ -1,4 +1,4 @@
-package JVM;
+package java.JVM;
 
 import java.util.ArrayList;
 import java.util.List;

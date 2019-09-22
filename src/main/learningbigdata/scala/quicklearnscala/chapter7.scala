@@ -1,4 +1,4 @@
-package quicklearnscala
+package scala.quicklearnscala
 
 object Transfer extends App{
   import java.util.{HashMap => JavaHashMap}

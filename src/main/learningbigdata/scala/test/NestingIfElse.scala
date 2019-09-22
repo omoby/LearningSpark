@@ -1,4 +1,4 @@
-package main.learningbigdata.scala.test
+package scala.test
 
 /**
   * FileName: NestingIfElse

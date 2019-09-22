@@ -1,4 +1,4 @@
-package NowCoder;
+package java.NowCoder;
 
 import java.util.ArrayList;
 import java.util.Arrays;

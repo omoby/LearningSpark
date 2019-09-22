@@ -1,4 +1,4 @@
-package javabook.sort;
+package java.javabook.sort;
 
 import java.util.*;
 

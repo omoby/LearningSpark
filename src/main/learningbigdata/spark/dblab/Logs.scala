@@ -1,4 +1,4 @@
-package dblab
+package spark.dblab
 
 import java.text.SimpleDateFormat
 import java.util.{Date, Locale}

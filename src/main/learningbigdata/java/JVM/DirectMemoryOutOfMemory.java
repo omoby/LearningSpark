@@ -1,4 +1,4 @@
-package JVM;
+package java.JVM;
 
 import java.nio.ByteBuffer;
 

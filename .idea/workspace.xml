@@ -1,76 +1,599 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d56c8f-e670-496d-9ddf-39425b5179fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f6d56c8f-e670-496d-9ddf-39425b5179fb" name="Default Changelist" comment="更改报名">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/ChainMapperReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/ChainMapperReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/CogroupOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/CogroupOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/DdfferentData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/DdfferentData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/DesignPatternOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/DesignPatternOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/HelloHDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/HelloHDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/InvertedIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/InvertedIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaDop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaDop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaNIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JavaWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinImproved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinImproved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinWorkersInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/JoinWorkersInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MRSecondarySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MRSecondarySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MaxAndMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MaxAndMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MultipleSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MultipleSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MyFirstMapReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/MyFirstMapReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySortKeyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySortKeyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySortMR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondarySortMR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondrySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SecondrySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SelfJion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SelfJion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SocketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SocketClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SortedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SortedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SortedTopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/SortedTopN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/TemperatureComputation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/TemperatureComputation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/TopNGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/TopNGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/URLLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/URLLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/forSortedReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/forSortedReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/javaGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/javaGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/javaNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/DT/javaNet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/InstroductionToJavaProgramming/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/InstroductionToJavaProgramming/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/ConstantOutOfMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/ConstantOutOfMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/DirectMemoryOutOfMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/DirectMemoryOutOfMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/HeapOutOfMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/HeapOutOfMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/JVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/JVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/JVMOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/JVMOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/OOMOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/OOMOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/StackOverFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/JVM/StackOverFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Approximation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Approximation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterComp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterComp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterRevser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CharacterRevser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CombinedRecordTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CombinedRecordTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CombinedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CombinedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CoordinateMovement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CoordinateMovement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CountCharacterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/CountCharacterNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/DeleteLessCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/DeleteLessCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/FindMaxSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/FindMaxSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/HexToTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/HexToTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/IP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/IP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/IPMask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/IPMask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/LastWordLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/LastWordLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/MaxPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/MaxPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/NonRepeatingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/NonRepeatingInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/NumberFlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/NumberFlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/OneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/OneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/PrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/PrimeFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/RevserNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/RevserNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/RevserString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/RevserString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SentenceReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SentenceReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SimpleErrorRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SimpleErrorRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SimplePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SimplePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SodaBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/SodaBottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/StringSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/StringSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/VerificationCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/VerificationCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/WordInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/WordInversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/WordSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/NowCoder/WordSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/Interview3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/Interview3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/Interview4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/Interview4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/PointerToOffer/StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/DataFrameJavaOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/DataFrameJavaOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/RDDToDataFrameByProgramatically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/RDDToDataFrameByProgramatically.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/RDDToDataFrameByReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/RDDToDataFrameByReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLDataManually.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLDataManually.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLJDBCToMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLJDBCToMySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLJDBCToThriftServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLJDBCToThriftServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLLoadSaveOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLLoadSaveOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLParquetOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLParquetOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLUserLogsOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLUserLogsOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLUserlogsHottestDataManually.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLUserlogsHottestDataManually.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLWithJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/SparkSQLWithJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/TheTopBySparkSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/SparkSQL/TheTopBySparkSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/BUbbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/BUbbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/KMPAlgotithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/KMPAlgotithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/javabook/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/test/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/test/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/test/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/test/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/HelloScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/ScalaBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/ScalaBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/ScalaTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/ScalaTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/DT/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/RicherFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/RicherFile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/ScalaChapter3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/ScalaChapter3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/ScalaChapter4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/ScalaChapter4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/chapter7.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/chapter7.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/scalaTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/scalaTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/DoWhileTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/DoWhileTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/DoubleIfTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/DoubleIfTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/ForTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/ForTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/IfElseTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/IfElseTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/IfTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/IfTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/NestingIfElse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/NestingIfElse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/WhileTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/scala/test/WhileTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnCollection.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnCollection.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnLocalFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnLocalFile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SecondarySortApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SecondarySortApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SecondarySortKey.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SecondarySortKey.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SparkCluster.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SparkCluster.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TextLines.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TextLines.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TopNBasic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TopNBasic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TopNGroupScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/TopNGroupScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/Transformations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/Transformations.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountAgain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountAgain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountCluster.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountCluster.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountJobRuntime.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCountJobRuntime.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/DataFrameScalaOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/DataFrameScalaOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLAgg.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLAgg.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLJDBCMySQLScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLJDBCMySQLScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLToHive.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLToHive.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUDFAndUDAF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUDFAndUDAF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUserLogsHosttest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUserLogsHosttest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUserLogsManually.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUserLogsManually.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLWindowFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLWindowFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLWithJionScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLWithJionScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/AmericaDream.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/AmericaDream.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/Logs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/Logs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/RDDTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/RDDTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/SimpleApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/SimpleApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/dblab/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/MyAccumulator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/MyAccumulator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/SecondarySortKey.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/SecondarySortKey.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$$anonfun$main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/StructuredStreamingWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/StructuredStreamingWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/TestMyAccumulator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/TestMyAccumulator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Aninal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Average$AverageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Average$AverageReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/BigData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ChainMapperReducer$ChainMapper1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ChainMapperReducer$ChainMapper2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ChainMapperReducer$ChainMapper3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ChainMapperReducer$ChainToReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ChainMapperReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Channel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Coder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/CogroupOps$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/CogroupOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/DdfferentData$forDifferenceMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/DdfferentData$forDifferenceReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/DdfferentData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/DesignPatternOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Dream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Empty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Friut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/FriutFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/FriutPartition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/GroupComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/GroupingIntMultipleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/HelloHDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/HelloScala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/HelloScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/HelloThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ITNews.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/IntMultiplePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/IntMultipleSortingComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/IntPair2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/InvertedIndex$InvertedIndexCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/InvertedIndex$InvertedIndexMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/InvertedIndex$InvertedIndexReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/InvertedIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaDop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaIO$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaNIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaWordCount$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaWordCount$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaWordCount$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaWordCount$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JavaWordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinGroupComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinImproved$JoinImprovedMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinImproved$JoinImprovedReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinImproved.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinWorkersInformation$JoinWorkersInformationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinWorkersInformation$JoinWorkersInformationReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/JoinWorkersInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MRSecondarySort$MRSecondarySortMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MRSecondarySort$MRSecondarySortReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MRSecondarySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MaxAndMinValue$MaxAndMinValueMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MaxAndMinValue$MaxAndMinValueReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MaxAndMinValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MemberInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MemberKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MultipleSorting$MultipleSortingMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MultipleSorting$MultipleSortingReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MultipleSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyFirstMapReduce$WordCountMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyFirstMapReduce$WordCountReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyFirstMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyGroupComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyMultipleSortingPartitioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/MyPartitioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/NetWorkProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/NetWorkStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnCollection$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnCollection$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnLocalFile$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnLocalFile$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnLocalFile$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/RDDBasedOnLocalFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ScalaBasics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ScalaBasics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ScalaTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/ScalaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortApp$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortApp$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortApp$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortApp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKey$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKeyApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKeyApp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKeyApp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortKeyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortMR$SecondarySortMRMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortMR$SecondarySortMRReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SecondarySortMR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SelfJion$SelfJionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SelfJion$SelfJionReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SelfJion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SocketClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedData$forSortedMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedData$forSortedReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedTopN$SortedTopNMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedTopN$SortedTopNReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SortedTopN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/SparkCluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TemperatureComputation$TemperatureMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TemperatureComputation$TemperatureReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TemperatureComputation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TextLines$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TextLines$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TextLines$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TextLines$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TextLines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TicketLogicThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNBasic$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNBasic$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNBasic$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNBasic$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroup$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroup$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/TopNGroupScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$cogroupTransformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$filterTransformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$flatMapTransformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$groupByKeyTansformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$joinTransformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$mapTransformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$$anonfun$reduceByKeyTansformation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/Transformations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/URLLog$URLLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/URLLog$URLLogReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/URLLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WordCountCluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/WorkersInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/forSortedReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/javaGenerics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/javaNet$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DT/javaNet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/ConstantOutOfMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/DirectMemoryOutOfMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/HeapOutOfMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/JVM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/JVMOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/OOMOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/StackOverFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JVM/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CharacterComp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CharacterCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CharacterPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CharacterRevser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CombinedRecordTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CombinedString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CoordinateMovement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/CountCharacterNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/DeleteLessCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/FindMaxSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/HexToTen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/IP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/IPMask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/LastWordLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/MaxPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/NonRepeatingInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/NumberFlip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/OneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/PrimeFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/Random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/RevserNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/RevserString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/SentenceReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/ShoppingList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/SimpleErrorRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/SimplePassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/SodaBottle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/StringSplit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/VerificationCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/WordInversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NowCoder/WordSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PointerToOffer/Interview3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PointerToOffer/Interview4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PointerToOffer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PointerToOffer/StringToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scala$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ScalaTest$Engineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ScalaTest$Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ScalaTest$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ScalaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/DataFrameJavaOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/DataFrameScalaOps$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/DataFrameScalaOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/MyUDAF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/PersonAgeScore$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/PersonAgeScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/RDDToDataFrameByProgramatically$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/RDDToDataFrameByProgramatically.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/RDDToDataFrameByReflection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/RDDToDataFrameByReflection$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/RDDToDataFrameByReflection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLAgg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLDataManually.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$$typecreator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCMySQLScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToMySQL$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToMySQL$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToMySQL$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToMySQL$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToMySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLJDBCToThriftServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLLoadSaveOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLParquetOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLToHive$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLToHive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUDFAndUDAF$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUDFAndUDAF$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUDFAndUDAF$$typecreator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUDFAndUDAF$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUDFAndUDAF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsHosttest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsManually$$anonfun$ganerateUserLogs$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsManually$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsManually.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserLogsOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLUserlogsHottestDataManually.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWindowFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWindowFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$$typecreator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJionScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJoin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJoin$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJoin$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJoin$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLWithJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/TheTopBySparkSQL$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/TheTopBySparkSQL$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/TheTopBySparkSQL$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/TheTopBySparkSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/AmericaDream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/Logs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/RDDTest$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/RDDTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/RDDTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/SimpleApp$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/SimpleApp$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/SimpleApp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/SimpleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dblab/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabook/sort/KMP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabook/sort/KMPAlgotithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabook/sort/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabook/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/java/InstroductionToJavaProgramming/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/java/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/java/NowCoder/Approximation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/java/javabook/sort/BUbbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/scala/test/HelloWorld$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/scala/test/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/learningbigdata/spark/spark3step/SecondarySortKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$execiseone$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$execiseseven$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$execiseseven2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$execisesix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$execisetwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$$anonfun$main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise2$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise3$1$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise4$1$$anonfun$apply$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$execise7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$$anonfun$main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/ScalaChapter4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/Transfer$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/Transfer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/Transfer$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quicklearnscala/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordCount.sh" beforeDir="false" afterPath="$PROJECT_DIR$/wordCount.sh" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="348" lean-forward="true" selection-start-line="348" selection-end-line="348" />
-              <folding>
-                <element signature="e#47#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/SecondarySortKey.scala" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.scala" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -85,48 +608,23 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="693" />
-    <option name="y" value="52" />
-    <option name="width" value="650" />
-    <option name="height" value="673" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
+  <component name="ProjectId" id="1RBdXiwsbyFcCeqZnsOLz1SLIf6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LearningBigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearningBigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearningBigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningSpark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learningbigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559285133230" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workLearing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -146,7 +644,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ForTest">
+    <configuration name="BUbbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.javabook.sort.BUbbleSort" />
+      <module name="LearningBigdata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.javabook.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala.test.ForTest" />
+      <module name="LearningBigdata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RDD_Movie_Users_Analyzer" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="main.learningbigdata.spark.spark3step.RDD_Movie_Users_Analyzer" />
       <module name="LearningBigdata" />
@@ -162,6 +686,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForTest" />
+        <item itemvalue="Application.BUbbleSort" />
         <item itemvalue="Application.RDD_Movie_Users_Analyzer" />
       </list>
     </recent_temporary>
@@ -180,11 +706,9 @@
       <workItem from="1558502364059" duration="1155000" />
       <workItem from="1558575920371" duration="12901000" />
       <workItem from="1559271371076" duration="9330000" />
+      <workItem from="1569144467581" duration="4185000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -195,150 +719,26 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="693" y="52" width="650" height="673" extended-state="4" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2870229" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8192771" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32874355" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.9457505" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.75387263" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32977098" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/LearningSpark" />
     </ignored-roots>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/java/lang/Math.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          <folding>
-            <element signature="e#1979#1980#0" expanded="true" />
-            <element signature="e#2023#2024#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnLocalFile.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/DT/RDDBasedOnCollection.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SparkCluster.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/DT/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1121">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/scala/quicklearnscala/ScalaChapter4.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/DT/SecondarySortKey.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/SecondarySortKey.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.1/spark-sql_2.11-2.2.1.jar!/org/apache/spark/sql/SparkSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1376">
-          <caret line="55" column="142" selection-start-line="55" selection-start-column="142" selection-end-line="55" selection-end-column="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.1/spark-sql_2.11-2.3.1-sources.jar!/org/apache/spark/sql/SparkSession.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="498" column="4" selection-start-line="498" selection-start-column="4" selection-end-line="498" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/SparkSQL/SparkSQLUserLogsManually.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/learningbigdata/spark/spark3step/RDD_Movie_Users_Analyzer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="348" lean-forward="true" selection-start-line="348" selection-end-line="348" />
-          <folding>
-            <element signature="e#47#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <MESSAGE value="更改报名" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改报名" />
   </component>
   <component name="masterDetails">
     <states>

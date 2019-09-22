@@ -1,3 +1,4 @@
+package scala.quicklearnscala;
 import scala.collection.mutable.ArrayBuffer
 
 //移除一个数组中第一个负数以后的负数

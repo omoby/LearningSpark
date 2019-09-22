@@ -1,4 +1,4 @@
-package dblab
+package spark.dblab
 
 import org.apache.spark.{SparkConf, SparkContext}
 

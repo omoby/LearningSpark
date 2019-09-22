@@ -1,4 +1,4 @@
-package main.learningbigdata.java.NowCoder;
+package java.NowCoder;
 
 import java.util.Scanner;
 

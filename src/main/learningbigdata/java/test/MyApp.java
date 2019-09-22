@@ -1,4 +1,4 @@
-package test;
+package java.test;
 
 /**
  * FileName: MyApp
@@ -10,7 +10,5 @@ package test;
 public class MyApp {
         public static void main(String[] args) {
             // TODO Auto-generated method stub
-            test.Test test=null;
-            test.hello();
         }
     }

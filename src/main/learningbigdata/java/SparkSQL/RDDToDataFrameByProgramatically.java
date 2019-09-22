@@ -1,4 +1,4 @@
-package SparkSQL;
+package java.SparkSQL;
 
 
 import org.apache.spark.SparkConf;

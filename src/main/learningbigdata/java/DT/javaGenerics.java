@@ -1,4 +1,4 @@
-package DT;
+package java.DT;
 
 /**
  * FileName: javaGenerics

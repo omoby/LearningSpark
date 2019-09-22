@@ -1,4 +1,4 @@
-package NowCoder;
+package java.NowCoder;
 
 /**
  * FileName: IP

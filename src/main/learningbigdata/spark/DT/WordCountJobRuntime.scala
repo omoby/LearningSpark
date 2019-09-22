@@ -1,4 +1,4 @@
-package main.learningbigdata.spark.DT
+package spark.DT
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkConf

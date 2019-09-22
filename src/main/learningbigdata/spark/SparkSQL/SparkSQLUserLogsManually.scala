@@ -1,4 +1,4 @@
-package SparkSQL
+package spark.SparkSQL
 
 import java.io.{File, FileWriter, PrintWriter}
 import java.text.SimpleDateFormat

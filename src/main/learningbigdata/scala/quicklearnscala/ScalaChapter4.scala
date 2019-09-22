@@ -1,4 +1,4 @@
-package quicklearnscala
+package scala.quicklearnscala
 
 import java.io.File
 import java.util

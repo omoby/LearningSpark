@@ -1,4 +1,4 @@
-package SparkSQL
+package spark.SparkSQL
 
 import org.apache.spark.sql.expressions.{MutableAggregationBuffer, UserDefinedAggregateFunction}
 import org.apache.spark.sql.{Row, SQLContext}

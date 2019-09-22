@@ -1,4 +1,4 @@
-package DT;
+package java.DT;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

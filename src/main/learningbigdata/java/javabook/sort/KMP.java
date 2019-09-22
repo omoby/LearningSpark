@@ -1,4 +1,4 @@
-package javabook.sort;
+package java.javabook.sort;
 
 /**
  * FileName: KMP
@@ -11,7 +11,7 @@ public class KMP {
     public static void main(String[] args){
         String target = "abcdacbdacdb";
         String mode = "acbd";
-        boolean result = javabook.sort.KMPAlgotithm.KMP(target,mode);
+        boolean result = java.javabook.sort.KMPAlgotithm.KMP(target,mode);
         System.out.println(result);
     }
 }

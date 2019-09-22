@@ -1,4 +1,4 @@
-package quicklearnscala
+package scala.quicklearnscala;
 
 import scala.collection.JavaConverters._
 import scala.collection.mutable.ArrayBuffer

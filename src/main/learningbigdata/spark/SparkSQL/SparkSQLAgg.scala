@@ -1,4 +1,4 @@
-package SparkSQL
+package spark.SparkSQL
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.{Row, SQLContext, types}
